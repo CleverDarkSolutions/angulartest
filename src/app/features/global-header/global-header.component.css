@@ -1,0 +1,26 @@
+.page-header {
+  background: #353935;
+  color: white;
+}
+
+.header-columns {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-weight: bold;
+  padding: 10px;
+}
+
+.column {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+}
+
+.column:hover {
+  cursor: pointer;
+}
+
+.logo {
+  font-size: 2rem;
+}
